@@ -11,10 +11,11 @@
 </div>
 
 ---
-
-<img align="right" width="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ## 💼 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```python
 class Imraan:
@@ -41,7 +42,12 @@ class Imraan:
 me = Imraan()
 ```
 
-<br clear="both"/>
+</td>
+<td width="40%" valign="top">
+<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</td>
+</tr>
+</table>
 
 ---
 
