@@ -2,13 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Imraan%20N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Accounting%20and%20Data%20Analytics%20Enthusiast&descAlignY=62&descSize=16" />
 
-<a href="https://www.linkedin.com/in/imraan-nabi" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:imraannabi7@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=imraan-n23&style=flat-square&color=70A5FD" />
+<a href="mailto:imraannabi7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/imraan-nabi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
 <br/>
 
@@ -46,6 +40,8 @@ class Imraan:
 
 me = Imraan()
 ```
+
+<br clear="both"/>
 
 ---
 
